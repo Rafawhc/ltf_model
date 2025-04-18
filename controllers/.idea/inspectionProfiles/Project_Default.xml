@@ -1,0 +1,74 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="clip_point" />
+          <option value="time_interval" />
+          <option value="alpha_1" />
+          <option value="Np" />
+          <option value="alpha_4" />
+          <option value="alpha_5" />
+          <option value="alpha_6" />
+          <option value="alpha_7" />
+          <option value="S_on" />
+          <option value="S_off" />
+          <option value="w_i_on" />
+          <option value="w_i_off" />
+          <option value="w_i_on_base" />
+          <option value="w_i_off_base" />
+          <option value="theta_1" />
+          <option value="theta_2" />
+          <option value="theta_3" />
+          <option value="Cw" />
+          <option value="delta_c" />
+          <option value="Cde" />
+          <option value="Tde" />
+          <option value="Tsfa" />
+          <option value="Tsp" />
+          <option value="Tpm" />
+          <option value="n_cell" />
+          <option value="tau_3" />
+          <option value="tau_4" />
+          <option value="Nsp" />
+          <option value="Nts" />
+          <option value="spike" />
+          <option value="collision" />
+          <option value="photoreceptors" />
+          <option value="P_on" />
+          <option value="P_off" />
+          <option value="I_on" />
+          <option value="I_off" />
+          <option value="Ce" />
+          <option value="W_1" />
+          <option value="W_2" />
+          <option value="W_g" />
+          <option value="tau_on" />
+          <option value="tau_off" />
+          <option value="alpha_2" />
+          <option value="alpha_3" />
+          <option value="smp" />
+          <option value="sfa" />
+          <option value="mp" />
+          <option value="G" />
+          <option value="S" />
+          <option value="pm" />
+          <option value="int.shape" />
+          <option value="property.setter" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

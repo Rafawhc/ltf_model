@@ -1,0 +1,1 @@
+Here’s a description of a simulation scenario based on Webots, where the controllers include code for both the drone and the target, along with a target recognition algorithm.The version of Webots being used is 2023b.
